@@ -1,0 +1,26 @@
+# Guía de Lectura del Repositorio
+
+Toda la documentación de este proyecto se encuentra en formato PDF para facilitar su consulta directa desde GitHub o cualquier dispositivo.
+
+---
+
+## Orden recomendado de revisión
+
+1. **Contexto organizacional**  
+Para comprender la operación, estructura y modelo de negocio de la empresa sobre la que se desarrolló el proyecto, comienza leyendo **`SGSI-DOC-16 Manual de Identidad`**.
+
+2. **Núcleo del SGSI**  
+Continúa con los documentos de la carpeta `Documentos Obligatorios` siguiendo su orden numérico, desde **`SGSI-DOC-01`** hasta **`SGSI-DOC-14`**. Esta secuencia refleja el orden de implementación y auditoría de la norma ISO/IEC 27001:2022.
+
+3. **Índice general del proyecto**  
+Consulta **`SGSI-DOC-15`**, que concentra la lista maestra de todos los documentos referenciados a lo largo de la implementación y auditoría, especialmente en la **Declaración de Aplicabilidad**.
+
+4. **Politicas internas**  
+Inicia con la **Política de Seguridad de la Información**, que engloba al resto de las políticas. Se puede revisar cualquier política específica de forma independiente, sin un orden obligatorio.
+
+5. **Operación y cumplimiento en el resto de carpetas:**  
+Los archivos ubicados en `Lineamientos y Procedimientos`, `Evidencias` y `Regulatorios` pueden consultarse libremente según el control o proceso que desees revisar.
+
+---
+
+> **Nota sobre las evidencias del Anexo A:** Debido al volumen de documentación que genera la operación completa de los controles del Anexo A, algunos registros complementarios no se incluyen en archivo PDF. Sin embargo, todos se encuentran inventariados y descritos en las 
